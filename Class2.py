@@ -15,10 +15,6 @@
 Operators = 10 <= 10
 print(Operators)
 
-
-
-
-
 # == Equal
 # != Not equal
 # > Greater than 
